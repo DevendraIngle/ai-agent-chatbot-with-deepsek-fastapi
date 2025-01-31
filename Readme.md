@@ -1,5 +1,20 @@
 # Project Setup Guide
+## Screenshots
 
+### Screenshot 1
+![Screenshot 1](images/1.png)
+
+### Screenshot 2
+![Screenshot 2](images/2.png)
+
+### Screenshot 3
+![Screenshot 3](images/3.png)
+
+### Screenshot 4
+![Screenshot 4](images/4.png)
+
+### Screenshot 5
+![Screenshot 5](images/5.png)
 This guide provides step-by-step instructions to set up your project environment, including setting up a Python virtual environment using Pipenv, pip, or conda.
 
 ## Table of Contents
